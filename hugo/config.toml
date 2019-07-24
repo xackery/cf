@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Coder Forge"
 theme = "minimal"
@@ -53,6 +53,6 @@ googleAnalytics = ""
 
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/xackery/cf"
     name = "github"
     weight = 2

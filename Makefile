@@ -9,3 +9,5 @@ build:
 	@cd hugo && hugo
 deploy: build
 	@firebase deploy
+firebase-server:
+	firebase serve --only hosting
